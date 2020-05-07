@@ -2,7 +2,7 @@
   "name": "pwameal",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "Robbi <robbimeidyansyah@gmail.com>",
+  "author": "BayuNova <bayunovantio2811@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
